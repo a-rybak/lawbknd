@@ -1,0 +1,16 @@
+.idea/
+frontend/
+backend/*.md
+backend/*.lock
+backend/codeception.yml
+backend/docker-compose.yml
+backend/robots.txt
+backend/Vagrantfile
+backend/.bowerrc
+backend//commands
+backend//config
+backend//mail
+backend//runtime
+backend//vagrant
+backend//views
+backend//widgets
